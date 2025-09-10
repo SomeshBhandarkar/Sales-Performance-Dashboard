@@ -4,7 +4,7 @@ import requests
 from datetime import datetime, timedelta
 
 # fetching the product data from the fakestore API 
-response = requests.get("https://fakestoreapi.com/products")
+response = requests.get("fakestoreapi link that you can find online!") # change this!
 products = response.json()
 
 # setting parameter for the fake transactions 
